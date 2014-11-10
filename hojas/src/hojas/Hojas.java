@@ -18,10 +18,9 @@ public class Hojas {
     public static void main(String[] args) {
         // TODO code application logic here
         // desarrrollo de softaware jfjjfjfj
-        //hjgfshgsdh
+        /7/hjgfshgsdh
         //CHIZAGUNAO.
         //EDISON
-                // trabajo de ingenieria de software
         
     }
     
